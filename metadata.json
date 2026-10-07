@@ -1,0 +1,6 @@
+{
+  "name": "키워드 경험 스피드게임 - 누구일까요?",
+  "description": "학생들이 3~6개의 키워드로 자신의 경험을 공유하고, 교사 화면에서 실시간으로 취합하여 주인공을 맞추는 실시간 스피드 퀴즈 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
